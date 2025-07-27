@@ -13,105 +13,82 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+## 🛠️ Technologies & Tools
 
-### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-    <div style="background: #20232a; color: #61dafb; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(97, 218, 251, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
-      <span>React</span>
-    </div>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-    <div style="background: #f7df1e; color: #000000; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(247, 223, 30, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
-      <span>JavaScript</span>
-    </div>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: #38b2ac; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(56, 178, 172, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24" height="24" />
-      <span>TailwindCSS</span>
-    </div>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: #7952b3; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(121, 82, 179, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24" height="24" />
-      <span>Bootstrap</span>
-    </div>
-  </a>
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-### Backend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
-  <a href="https://laravel.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: #ff2d20; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(255, 45, 32, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="24" height="24" />
-      <span>Laravel</span>
-    </div>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: #092e20; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(9, 46, 32, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" />
-      <span>Django</span>
-    </div>
-  </a>
-  <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
-    <div style="background: #777bb4; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(119, 123, 180, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24" />
-      <span>PHP</span>
-    </div>
-  </a>
-  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-    <div style="background: #3776ab; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(55, 118, 171, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" />
-      <span>Python</span>
-    </div>
-  </a>
-</div>
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</a>
 
-### Database & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: #4479a1; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(68, 121, 161, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" />
-      <span>MySQL</span>
-    </div>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
-    <div style="background: #4169e1; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(65, 105, 225, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" />
-      <span>PostgreSQL</span>
-    </div>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: #f05032; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(240, 80, 50, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />
-      <span>Git</span>
-    </div>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-    <div style="background: #2496ed; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(36, 150, 237, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" />
-      <span>Docker</span>
-    </div>
-  </a>
-  <a href="https://postman.com" target="_blank" style="text-decoration: none;">
-    <div style="background: #ff6c37; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(255, 108, 55, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="24" height="24" />
-      <span>Postman</span>
-    </div>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" style="text-decoration: none;">
-    <div style="background: #646cff; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(100, 108, 255, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="24" height="24" />
-      <span>Vite</span>
-    </div>
-  </a>
-</div>
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+</a>
+
+<!-- Tailwind -->
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap"/>
+</a>
+
+<!-- Laravel -->
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</a>
+
+<!-- Django -->
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</a>
+
+<!-- PHP -->
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP"/>
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+
+<!-- Postman -->
+<a href="https://postman.com" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</a>
+
+<!-- Vite -->
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</a>
 
 </div>
+
 
 ## 🚀 Featured Projects
 

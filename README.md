@@ -36,9 +36,7 @@
   <a href="https://www.instagram.com/_natigt23/" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram">
   </a>
-  <a href="https://www.hackerrank.com/" target="_blank" title="HackerRank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank">
-  </a>
+
   <a href="https://x.com/Natnael3611701" target="_blank" title="Twitter">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter">
   </a>
@@ -48,9 +46,7 @@
   <a href="https://github.com/coderun23-cloud" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" alt="GitHub">
   </a>
-  <a href="mailto:ngetachew277@gmail.com" target="_blank" title="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="30" width="40" alt="Email">
-  </a>
+
 </p>
 
 ---
@@ -77,6 +73,84 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Natnael Getachew</h1>
+<h3 align="center">💻 Software Engineer & Full-Stack Web Developer</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=natnael-getachew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+<p align="right">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" alt="Coding Animation">
+</p>
+
+---
+
+### 🚀 What I'm Exploring:
+- React Query & Jest for scalable testing
+- Backend design patterns with Django & Laravel
+- Deploying with Vercel and optimizing workflows with Postman & PyCharm
+
+---
+
+### ⚡ Fun Fact:
+Food and 🎵 Music keep the code flowing!
+
+---
+
+### 📫 Contact Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/natnael-getachew-798507256/" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40" alt="LinkedIn">
+  </a>
+  <a href="https://fb.com/" target="_blank" title="Facebook">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="40" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/_natigt23/" target="_blank" title="Instagram">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="40" alt="Instagram">
+  </a>
+  <a href="https://t.me/natigt23" target="_blank" title="Telegram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="40" alt="Telegram">
+  </a>
+  <a href="https://x.com/Natnael3611701" target="_blank" title="Twitter">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="40" alt="Twitter">
+  </a>
+  <a href="https://github.com/coderun23-cloud" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="40" alt="GitHub">
+  </a>
+  <a href="mailto:ngetachew277@gmail.com" target="_blank" title="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="30" height="40" alt="Email">
+  </a>
+</p>
+
+---
+
+### 🔧 Languages & Tools:
+<p align="left">
+  <!-- Most Used Language -->
+  <img src="https://img.shields.io/badge/Most%20Used-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40" alt="PyCharm">
+  <img src="https://www.svgrepo.com/show/354202/vercel.svg" width="40" height="40" alt="Vercel">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40" alt="Laravel">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-getachew&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff" alt="Top Languages">
@@ -89,8 +163,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael-getachew&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
-
----
 
 ### 🌍 GitHub Profile:
 🔗 [natnael-getachew](https://github.com/natnael-getachew)

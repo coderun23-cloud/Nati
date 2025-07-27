@@ -100,9 +100,7 @@
 ---
 
 <div align="center">
-  
-![Snake animation](https://github.com/natnael/natnael/blob/output/github-contribution-grid-snake-dark.svg)
-
+  ![Snake animation](https://github.com/natnael/natnael/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <p align="center">

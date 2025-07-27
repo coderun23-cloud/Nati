@@ -48,8 +48,8 @@ Food and 🎵 Music keep the code flowing!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
-  <img src="https://www.vectorlogo.zone/logos/pycharm/pycharm-icon.svg" width="40" height="40" alt="PyCharm">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40" alt="PyCharm">
+  <img src="https://www.svgrepo.com/show/354202/vercel.svg" width="40" height="40" alt="Vercel (white)">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS">
@@ -58,6 +58,7 @@ Food and 🎵 Music keep the code flowing!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
+  <img src="https://www.iconsdb.com/icons/white/github-icon.html" width="40" height="40" alt="GitHub (white)">
 </p>
 
 ---

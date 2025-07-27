@@ -54,7 +54,6 @@ Food and 🎵 Music keep the code flowing!
 
 ### 🔧 Languages & Tools:
 <p align="left">
-  <!-- Most Used Language -->
   <img src="https://img.shields.io/badge/Most%20Used-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">

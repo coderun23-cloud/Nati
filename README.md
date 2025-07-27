@@ -13,27 +13,105 @@
 
 ## 🛠️ Technologies & Tools
 
+<div align="center">
+
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
+    <div style="background: #20232a; color: #61dafb; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(97, 218, 251, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
+      <span>React</span>
+    </div>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+    <div style="background: #f7df1e; color: #000000; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(247, 223, 30, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
+      <span>JavaScript</span>
+    </div>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
+    <div style="background: #38b2ac; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(56, 178, 172, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24" height="24" />
+      <span>TailwindCSS</span>
+    </div>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;">
+    <div style="background: #7952b3; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(121, 82, 179, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24" height="24" />
+      <span>Bootstrap</span>
+    </div>
+  </a>
+</div>
 
 ### Backend
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
+  <a href="https://laravel.com/" target="_blank" style="text-decoration: none;">
+    <div style="background: #ff2d20; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(255, 45, 32, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="24" height="24" />
+      <span>Laravel</span>
+    </div>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
+    <div style="background: #092e20; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(9, 46, 32, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" />
+      <span>Django</span>
+    </div>
+  </a>
+  <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
+    <div style="background: #777bb4; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(119, 123, 180, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24" />
+      <span>PHP</span>
+    </div>
+  </a>
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
+    <div style="background: #3776ab; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(55, 118, 171, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" />
+      <span>Python</span>
+    </div>
+  </a>
+</div>
 
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+### Database & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+    <div style="background: #4479a1; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(68, 121, 161, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" />
+      <span>MySQL</span>
+    </div>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
+    <div style="background: #4169e1; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(65, 105, 225, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" />
+      <span>PostgreSQL</span>
+    </div>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <div style="background: #f05032; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(240, 80, 50, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />
+      <span>Git</span>
+    </div>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
+    <div style="background: #2496ed; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(36, 150, 237, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" />
+      <span>Docker</span>
+    </div>
+  </a>
+  <a href="https://postman.com" target="_blank" style="text-decoration: none;">
+    <div style="background: #ff6c37; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(255, 108, 55, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="24" height="24" />
+      <span>Postman</span>
+    </div>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" style="text-decoration: none;">
+    <div style="background: #646cff; color: #ffffff; padding: 12px 20px; border-radius: 8px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease; border: 1px solid #2d333b;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(100, 108, 255, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="24" height="24" />
+      <span>Vite</span>
+    </div>
+  </a>
+</div>
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+</div>
 
 ## 🚀 Featured Projects
 
@@ -75,13 +153,22 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank" style="text-decoration: none;">
+    <div style="background: #0A66C2; color: #ffffff; padding: 12px 24px; border-radius: 8px; display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease; margin: 0 5px;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(10, 102, 194, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" />
+      <span>LinkedIn</span>
+    </div>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+    <div style="background: #EA4335; color: #ffffff; padding: 12px 24px; border-radius: 8px; display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease; margin: 0 5px;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(234, 67, 53, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20" />
+      <span>Email</span>
+    </div>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+  <a href="https://twitter.com/yourhandle" target="_blank" style="text-decoration: none;">
+    <div style="background: #1DA1F2; color: #ffffff; padding: 12px 24px; border-radius: 8px; display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease; margin: 0 5px;" onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(29, 161, 242, 0.3)'" onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" height="20" />
+      <span>Twitter</span>
+    </div>
   </a>
 </p>

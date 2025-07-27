@@ -1,49 +1,59 @@
 <h1 align="center">Hi 👋, I'm Natnael Getachew</h1>
-<h3 align="center">🚀 Software Engineer & Full-Stack Web Developer</h3>
+<h3 align="center">👨‍💻 Full-Stack Web Developer & Software Engineer</h3>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=natnael-getachew&label=Profile%20views&color=0e75b6&style=flat" alt="natnael-getachew">
+  <img src="https://komarev.com/ghpvc/?username=natnael-getachew&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding" width="250">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" width="250">
 </p>
 
-### 🌱 What I'm Learning:
-- Web Development with React.js, Laravel, and Postman
-- Testing tools like Jest and React Query
-- Scalable backend patterns and performance optimization
+---
+
+### 🚀 Currently Exploring:
+- **React Query, Jest**, and scalable backend patterns
+- Building full-stack apps with **Django & Laravel**
+- Optimizing workflows with **Postman**, **PyCharm**, and **Vercel**
+
+---
 
 ### 📫 Reach Me:
 **Email:** [ngetachew277@gmail.com](mailto:ngetachew277@gmail.com)
 
+---
+
 ### ⚡ Fun Fact:
-Food and Music 🎶 are my debugging fuel.
+Food and 🎵 Music keep the code flowing!
 
 ---
 
-### 🤝 Connect with Me:
+### 🤝 Let’s Connect:
 <p align="left">
-  <a href="https://www.linkedin.com/in/natnael-getachew/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>
-  <a href="https://fb.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a>
-  <a href="https://instagram.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a>
-  <a href="https://www.hackerrank.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"></a>
-  <a href="https://twitter.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/natnael-getachew/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>
+  <a href="https://fb.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a>
+  <a href="https://www.hackerrank.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Languages & Tools I Use:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  <img src="https://www.vectorlogo.zone/logos/pycharm/pycharm-icon.svg" width="40" height="40" alt="PyCharm">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40" alt="Laravel">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman">
@@ -67,5 +77,5 @@ Food and Music 🎶 are my debugging fuel.
 
 ---
 
-### 🧠 GitHub Profile:
+### 🌍 GitHub Profile:
 🔗 [natnael-getachew](https://github.com/natnael-getachew)

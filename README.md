@@ -1,79 +1,107 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Natnael;Full-stack+Developer+%E2%9A%99%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Digital+Craftsman+%F0%9F%92%BB" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Natnael;Full-stack+Developer+%E2%9A%99%EF%B8%8F;Laravel+%26+Django+Specialist;UI%2FUX+Craftsman+%F0%9F%8E%A8" alt="Typing animation" />
 </h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Crafting+delightful+digital+experiences;From+pixels+to+powerful+backends;Clean+code+%26+thoughtful+design" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;From+backend+APIs+to+pixel-perfect+UIs;Clean+code+%26+secure+systems" alt="Typing animation" />
   </a>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=natnael&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views counter" /> 
-  • <img src="https://wakatime.com/badge/user/yourusername.svg" alt="Wakatime coding time" />
   • <a href="https://github.com/natnael?tab=followers">
     <img src="https://img.shields.io/github/followers/natnael?label=Followers&style=social" alt="GitHub followers">
   </a>
+  • <img src="https://wakatime.com/badge/user/yourusername.svg" alt="Coding time" />
 </p>
 
 ---
 
-## 🎨 Design & Development Stack
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+### 💼 Core Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎛️ Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🎨 Frontend Tools
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Development Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=natnael&theme=radical&border_radius=5&mode=weekly&fire=DD2727)](https://git.io/streak-stats)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=natnael&show_icons=true&count_private=true&theme=radical&include_all_commits=true&border_radius=10&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natnael&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🚧 Current Projects
+## 🏗️ Featured Projects
 
 ```mermaid
-graph TD
-    A[Portfolio Website] --> B[Next.js 14]
-    A --> C[Three.js Animations]
-    A --> D[Content Layer]
+graph LR
+    A[Adika Taxi System] --> B[Laravel REST API]
+    A --> C[React Frontend]
+    A --> D[MySQL Database]
+    A --> E[Postman Testing]
     
-    E[E-commerce Platform] --> F[React 18]
-    E --> G[Node.js Microservices]
-    E --> H[Stripe Integration]
+    F[SmartBill Invoicing] --> G[Laravel Backend]
+    F --> H[React Dashboard]
+    F --> I[Chart.js Analytics]
+    F --> J[PDF Generation]
+    F --> K[Payment Gateway]
     
-    I[UI Component Library] --> J[Storybook]
-    I --> K[Figma Design System]
-    I --> L[NPM Package]
+    L[Portfolio Project] --> M[Django Backend]
+    L --> N[Three.js Visuals]
+    L --> O[Responsive Design]
+💻 Development Activity
+<div align="center">
+https://streak-stats.demolab.com?user=natnael&theme=dark&border_radius=5&mode=weekly&fire=DD2727
+
+https://github-readme-stats.vercel.app/api?username=natnael&show_icons=true&count_private=true&theme=dark&include_all_commits=true&border_radius=10&hide_border=true&bg_color=0D1117
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=natnael&layout=compact&theme=dark&border_radius=10&hide_border=true&bg_color=0D1117&langs_count=8
+
+</div>
+🎓 Education & Skills
+St Mary's University
+📚 BSc Computer Science (GPA: 3.6) • 2021-2025
+📖 Focus: Web Development, Algorithms, Database Systems
+
+Key Competencies:
+
+RESTful API design with Laravel/Django
+
+React component architecture
+
+Database optimization (MySQL)
+
+Responsive UI development
+
+Cross-functional collaboration
+
+Performance optimization
+
+📬 Let's Connect
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+<div align="center">
+https://github.com/natnael/natnael/blob/output/github-contribution-grid-snake-dark.svg
+
+</div><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Ready+to+build+something+amazing%3F;Let's+connect+and+collaborate%21;Turning+ideas+into+functional+reality" alt="Footer typing animation" /> </p> ```

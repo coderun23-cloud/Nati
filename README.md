@@ -15,35 +15,49 @@
 
 ## 🛠️ Tech Stack
 
-<h2 align="center">🛠️ Languages & Frameworks</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 2rem;">
+  
+  <!-- Languages & Frameworks -->
+  <div style="flex: 1 1 300px; background-color: #f5f5f5; border-radius: 12px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+    <h3 style="text-align: center;">🧠 Languages & Frameworks</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </p>
+  </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <!-- Databases -->
+  <div style="flex: 1 1 300px; background-color: #f5f5f5; border-radius: 12px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+    <h3 style="text-align: center;">🗄️ Databases</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </p>
+  </div>
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 8px; transition: transform 0.3s ease;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px;" />
+  <!-- Tools & DevOps -->
+  <div style="flex: 1 1 300px; background-color: #f5f5f5; border-radius: 12px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+    <h3 style="text-align: center;">🛠️ Tools & DevOps</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    </p>
+  </div>
 
 </div>
 
 ---
-
-<h2 align="center">🧰 Databases & Tools</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="border-radius: 8px;" />
-
-</div>
+make the card for every section and make it animate and border radius
+---
+make the card for every section and make it animate and border radius
 
 
 ---

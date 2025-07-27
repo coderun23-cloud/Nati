@@ -100,7 +100,7 @@
 ---
 
 <div align="center">
-  ![Snake animation](https://github.com/natnael/natnael/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://github-readme-3d-stats.vercel.app/api?username=natnael&theme=dark&show_icons=true" alt="3D GitHub Stats" />
 </div>
 
 <p align="center">

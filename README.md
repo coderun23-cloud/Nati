@@ -99,9 +99,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-3d-stats.vercel.app/api?username=natnael&theme=dark&show_icons=true" alt="3D GitHub Stats" />
-</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Passionate+about+clean%2C+efficient+code;Let's+connect+and+collaborate%21;Building+the+web+of+tomorrow" alt="Footer typing animation" />
